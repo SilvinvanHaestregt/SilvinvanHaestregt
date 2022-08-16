@@ -13,6 +13,9 @@ I first started at a Minecraft server where I learned the language "Skript". Thi
 Python, HTML, CSS, C#, Java, Minecraft-Skript
 
 
+![Silvin's github stats](https://github-readme-stats.vercel.app/api?username=SilvinvanHaestregt&show_icons=true)
+
+
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://silvinvanhaestregt.com/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
