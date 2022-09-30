@@ -2,7 +2,7 @@
 ## 🚀 About Me
 My name is Silvin van Haestregt and I am a Software Developer in training.
 
-I am 16 years old and started coding at the start of the pandamic in early 2020.
+I am 17 years old and started coding at the start of the pandamic in early 2020.
 
 I noticed that I was really interested in this and so I continued and learned more and more.
 
